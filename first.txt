@@ -1,6 +1,10 @@
 
 jfjfosdjosrjf
+<<<<<<< HEAD
 Hello world!
 
 
 After hello, goodbye!
+=======
+123
+>>>>>>> master
